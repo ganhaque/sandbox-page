@@ -1,2 +1,2 @@
-# landing-page
-first proper website?
+# web-dev-sandbox
+sandbox for learning web-dev
